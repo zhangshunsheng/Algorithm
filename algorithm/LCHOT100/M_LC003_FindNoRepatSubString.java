@@ -41,4 +41,9 @@ public class M_LC003_FindNoRepatSubString {
         String s = "dvdf";
         System.out.println(lengthOfLongestSubstring(s));
     }
+//
+//    public static void dev(String[] args) {
+//        String s = "dev";
+//        System.out.dev(lengthOfLongestSubstring(s));
+//    }
 }
